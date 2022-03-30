@@ -1,9 +1,9 @@
 from MoodleClient import MoodleClient
 
-BOT_TOKEN = '5010096091:AAE1Y9JfdqgcyCPRatkVzMgm_EVfCslxNxg'
+BOT_TOKEN = '5038742211:AAEnLn9z9MnNOa-L6BRp8K8Pc4HLfobHQZE'
 MAX_ZIP_SIZE = 100
-ACCES_USERS = ['obisoftdev','shapingdev']
-CREDENTIALS = {'username':'obysoft','password':'Obysoft2001@'}
+ACCES_USERS = ['toni8790','hunter4345']
+CREDENTIALS = {'username':'darian.borges@estudiantes.fbio.uh.cu','password':'darian1995'}
 CACHE = {}
 
 def getCache():
